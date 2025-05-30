@@ -13,8 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>common-util</module>
-        <module>common-service</module>
-        <module>common-log</module>
+        <module>common-com.atguigu.spzx.manager.service</module>
     </modules>
 
     <properties>
